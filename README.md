@@ -1,7 +1,7 @@
 # Customer Personality Analysis - Task 1
 
 ## Submitted by
-**Name:** Vaishnavi
+**Name:** Vaishnavi V
 
 ## What I Did:
 - Handled missing values
